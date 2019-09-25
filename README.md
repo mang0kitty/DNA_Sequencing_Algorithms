@@ -1,1 +1,1 @@
-"# DNA_Sequencing_Algorithms" 
+# DNA_Sequencing_Algorithms
